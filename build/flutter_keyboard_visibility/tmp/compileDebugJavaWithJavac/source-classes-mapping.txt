@@ -1,0 +1,4 @@
+com/flutter/keyboardvisibility/KeyboardVisibilityPlugin.java
+ com.flutter.keyboardvisibility.KeyboardVisibilityPlugin
+com/flutter/keyboardvisibility/BuildConfig.java
+ com.flutter.keyboardvisibility.BuildConfig
